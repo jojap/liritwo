@@ -1,0 +1,22 @@
+{
+  "name": "liritwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojap/liritwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojap/liritwo/issues"
+  },
+  "homepage": "https://github.com/jojap/liritwo#readme"
+}
